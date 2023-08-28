@@ -1,0 +1,8 @@
+num=int(input("Enter num: "))
+num2=int(input("Enter num: "))
+
+def addnum():
+    sum=num+num2
+    print("Sum: ",sum)
+
+addnum()
