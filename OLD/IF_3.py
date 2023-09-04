@@ -1,4 +1,4 @@
-x=5
+x=int(input("Enter Num: "))
 if(x % 2 == 0):#Even number
     print(x,"is a even number")
 else:          #Odd number
