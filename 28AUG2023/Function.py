@@ -1,10 +1,4 @@
-def greet():
-    print("Hello World")
+def func(a,b=5):
+    print(a+b)
 
-
-greet()
-
-
-
-
-print('Outside function')
+func(1)
